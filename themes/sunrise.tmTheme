@@ -323,6 +323,19 @@
 				<string>#84769b</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>Double quoted attribute</string>
+			<key>scope</key>
+			<string>string.quoted.double.html</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#598867</string>
+			</dict>
+		</dict>
 
 		<!-- CSS -->
 		<dict>
