@@ -21,6 +21,18 @@
 				<string>#f0f0e3</string>
 				<key>selection</key>
 				<string>#cdcdc0</string>
+				<key>wordHighlight</key>
+				<string>#e6ebf1</string>
+				<key>wordHighlightStrong</key>
+				<string>#d5dfe8</string>
+				<key>rangeHighlight</key>
+				<string>#edfced</string>
+				<key>findMatchHighlight</key>
+				<string>#edfced</string>
+				<key>currentFindMatchHighlight</key>
+				<string>#ffcdff</string>
+				<key>findRangeHighlight</key>
+				<string>#bf360c</string>
 			</dict>
 		</dict>
 		<dict>
@@ -438,7 +450,7 @@
 				<string>#598867</string>
 			</dict>
 		</dict>
-
+		<!-- Stylus -->
 		<dict>
 			<key>name</key>
 			<string>Stylus: Property</string>
