@@ -2,7 +2,7 @@
     "name": "vscode-theme-sunrise",
     "displayName": "Sunrise",
     "description": "Sunrise Light color theme for Visual Studio Code",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "finico",
     "license": "MIT",
     "engines": {
