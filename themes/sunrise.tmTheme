@@ -16,7 +16,9 @@
 				<key>foreground</key>
 				<string>#828282</string>
 				<key>invisibles</key>
-				<string>#3b3a32</string>
+				<string>#aaaaaa</string>
+				<key>guide</key>
+				<string>#aaaaaa</string>
 				<key>lineHighlight</key>
 				<string>#f0f0e3</string>
 				<key>selection</key>
@@ -28,7 +30,7 @@
 				<key>rangeHighlight</key>
 				<string>#edfced</string>
 				<key>findMatchHighlight</key>
-				<string>#edfced</string>
+				<string>#c0d6a7</string>
 				<key>currentFindMatchHighlight</key>
 				<string>#ffcdff</string>
 				<key>findRangeHighlight</key>
