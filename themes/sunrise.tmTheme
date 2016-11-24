@@ -354,19 +354,6 @@
 		<!-- CSS -->
 		<dict>
 			<key>name</key>
-			<string>@rule</string>
-			<key>scope</key>
-			<string>keyword.control.at-rule.media.css</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string></string>
-				<key>foreground</key>
-				<string>#ff0000</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>CSS: Property</string>
 			<key>scope</key>
 			<string>entity.name.tag.css, support.type.property-name.css, meta.property-name.css</string>
