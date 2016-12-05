@@ -296,30 +296,28 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Invalid</string>
+			<string>Invalid Illegal</string>
 			<key>scope</key>
-			<string>invalid</string>
+			<string>invalid.illegal</string>
 			<key>settings</key>
 			<dict>
-				<key>background</key>
-				<string>#ffcccc</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#f8f8f0</string>
+				<string>#828282</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Invalid deprecated</string>
+			<string>Invalid Deprecated</string>
 			<key>scope</key>
 			<string>invalid.deprecated</string>
 			<key>settings</key>
 			<dict>
-				<key>background</key>
-				<string>#ae81ff</string>
+				<key>fontStyle</key>
+				<string></string>
 				<key>foreground</key>
-				<string>#f8f8f0</string>
+				<string>#828282</string>
 			</dict>
 		</dict>
 
