@@ -1,3 +1,7 @@
+### 1.0.4
+
+- fixed foreground for invalid scope
+
 ### 1.0.3
 
 - fixed `at-rule` in CSS
