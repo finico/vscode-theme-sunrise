@@ -450,6 +450,17 @@
 				<string>#598867</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>Media constant</string>
+			<key>scope</key>
+			<string>support.constant.media.css</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#598867</string>
+			</dict>
+		</dict>
 		<!-- Stylus -->
 		<dict>
 			<key>name</key>
