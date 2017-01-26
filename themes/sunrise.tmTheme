@@ -321,6 +321,19 @@
 			</dict>
 		</dict>
 
+		<!-- JSON -->
+		<dict>
+			<key>name</key>
+			<string>JSON property name</string>
+			<key>scope</key>
+			<string>support.type.property-name.json</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#84769b</string>
+			</dict>
+		</dict>
+
 		<!-- HTML -->
 		<dict>
 			<key>name</key>
