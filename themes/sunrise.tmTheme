@@ -148,6 +148,19 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Keyword new</string>
+			<key>scope</key>
+			<string>keyword.operator.new</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#57749b</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Storage</string>
 			<key>scope</key>
 			<string>storage</string>
