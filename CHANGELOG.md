@@ -1,3 +1,12 @@
+### 1.1.0
+- Changed JSON property name color
+- Changed CSS `@media` constants color
+- Changed `new`, `this` and `super` keyword color
+- Changed `decorator` color
+- Changed `object literal key` color
+- Better colors for `SCSS`
+- Better colors for nested selectors
+
 ### 1.0.4
 
 - fixed foreground for invalid scope
