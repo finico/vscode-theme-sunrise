@@ -41,7 +41,7 @@
 			<key>name</key>
 			<string>Comment</string>
 			<key>scope</key>
-			<string>comment</string>
+			<string>comment, punctuation.definition.block.comment</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
