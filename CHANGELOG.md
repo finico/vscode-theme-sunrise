@@ -1,3 +1,7 @@
+### 1.1.1
+- Fixed comment block color
+- Better word, search and range highlight
+
 ### 1.1.0
 - Changed JSON property name color
 - Changed CSS `@media` constants color
