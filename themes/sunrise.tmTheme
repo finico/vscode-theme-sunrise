@@ -24,17 +24,17 @@
 				<key>selection</key>
 				<string>#cdcdc0</string>
 				<key>wordHighlight</key>
-				<string>#e6ebf1</string>
+				<string>#e6ebf188</string>
 				<key>wordHighlightStrong</key>
-				<string>#d5dfe8</string>
+				<string>#d5dfe888</string>
 				<key>rangeHighlight</key>
-				<string>#edfced</string>
+				<string>#edfced88</string>
 				<key>findMatchHighlight</key>
-				<string>#c0d6a7</string>
+				<string>#c0d6a788</string>
 				<key>currentFindMatchHighlight</key>
-				<string>#ffcdff</string>
+				<string>#ffcdff88</string>
 				<key>findRangeHighlight</key>
-				<string>#bf360c</string>
+				<string>#bf360c88</string>
 			</dict>
 		</dict>
 		<dict>
