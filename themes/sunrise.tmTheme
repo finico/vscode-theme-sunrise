@@ -50,6 +50,19 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Comment JSDoc</string>
+			<key>scope</key>
+			<string>storage.type.class.jsdoc</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#90a4ae</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>String</string>
 			<key>scope</key>
 			<string>string</string>
