@@ -150,7 +150,7 @@
 			<key>name</key>
 			<string>Keyword operator</string>
 			<key>scope</key>
-			<string>keyword.operator, punctuation.definition.block</string>
+			<string>keyword.operator, punctuation.definition.block, meta.template.expression</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
