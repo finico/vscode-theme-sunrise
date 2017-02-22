@@ -1,3 +1,8 @@
+### 1.1.2
+- Changed color for jsdoc tags
+- Changed template expression color
+- Fixed methods color
+
 ### 1.1.1
 - Fixed comment block color
 - Better word, search and range highlight
