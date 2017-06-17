@@ -1,3 +1,14 @@
+### 2.0.0
+- Migrate theme to json
+- Support for Workbench theming
+- Changed peekView colors
+- Changed line number colors
+- Changed invisible characters colors
+- Changed statusBar background color
+- Better colors for doc comments
+- Better colors for find match
+- Better colors for CSS
+
 ### 1.1.2
 - Changed color for jsdoc tags
 - Changed template expression color
