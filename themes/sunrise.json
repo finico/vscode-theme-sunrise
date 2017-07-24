@@ -111,7 +111,11 @@
 			"name": "Keyword control",
 			"scope": [
 				"keyword.control",
-				"keyword.operator.new"
+				"keyword.operator.new",
+				"keyword.operator.expression",
+				"keyword.operator.cast",
+				"keyword.operator.sizeof",
+				"keyword.operator.logical.python"
 			],
 			"settings": {
 				"foreground": "#57749b",
@@ -345,6 +349,16 @@
 			],
 			"settings": {
 				"foreground": "#598867"
+			}
+		},
+		{
+			"name": "Python self",
+			"scope": [
+				"variable.language.special.self.python"
+			],
+			"settings": {
+				"foreground": "#c99e00",
+				"fontStyle": ""
 			}
 		}
 	]
