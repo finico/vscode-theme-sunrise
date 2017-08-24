@@ -1,6 +1,7 @@
 ### 2.0.1
 - Changed color for [new, cast, sizeof, etc]
 - Changed color for Python `self` variable
+- Replaced icon (svg -> png)
 
 ### 2.0.0
 - Migrate theme to json
