@@ -1,3 +1,7 @@
+### 2.0.1
+- Changed color for [new, cast, sizeof, etc]
+- Changed color for Python `self` variable
+
 ### 2.0.0
 - Migrate theme to json
 - Support for Workbench theming
