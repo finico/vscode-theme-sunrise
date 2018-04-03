@@ -1,3 +1,6 @@
+### 2.1.0
+- Change colors for warnings and the diffEditor
+
 ### 2.0.1
 - Changed color for [new, cast, sizeof, etc]
 - Changed color for Python `self` variable
