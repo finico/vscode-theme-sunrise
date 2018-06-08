@@ -1,3 +1,7 @@
+### 2.2.0
+- Support for unused variables color
+- Change active line number color
+
 ### 2.1.0
 - Change colors for warnings and the diffEditor
 
