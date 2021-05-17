@@ -367,6 +367,42 @@
 				"foreground": "#c99e00",
 				"fontStyle": ""
 			}
+		},
+		{
+			"scope": [
+				"markup.heading.markdown",
+				"markup.bold.markdown"
+			],
+			"settings": {
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": [
+				"markup.italic.markdown"
+			],
+			"settings": {
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"scope": [
+				"meta.link.inline.markdown",
+				"string.other.link.title.markdown"
+			],
+			"settings": {
+				"fontStyle": "underline",
+				"foreground": "#57749b"
+			}
+		},
+		{
+			"scope": [
+				"markup.fenced_code.block.markdown",
+				"markup.inline.raw.string.markdown"
+			],
+			"settings": {
+				"foreground": "#8d9baa"
+			}
 		}
 	]
 }
