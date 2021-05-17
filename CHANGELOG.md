@@ -1,3 +1,6 @@
+### 2.2.1
+- Better support for Markdown
+
 ### 2.2.0
 - Support for unused variables color
 - Change active line number color
